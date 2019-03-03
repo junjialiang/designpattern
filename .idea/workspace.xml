@@ -1,7 +1,438 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9dd7a1f9-3c19-4188-b1c8-08ee88a7b05d" name="Default Changelist" comment="" />
+    <list default="true" id="9dd7a1f9-3c19-4188-b1c8-08ee88a7b05d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/Approver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/chainofresponsibility/Approver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/ArticleApprover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/chainofresponsibility/ArticleApprover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/chainofresponsibility/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/chainofresponsibility/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/VideoApprover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/chainofresponsibility/VideoApprover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/command/CloseCourseVideoCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/command/CloseCourseVideoCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/command/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/command/CourseVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/command/CourseVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/command/OpenCourseVideoCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/command/OpenCourseVideoCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/command/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/command/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/command/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/command/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/interpreter/AddInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/interpreter/AddInterpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/interpreter/GeelyExpressionParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/interpreter/JunjiaExpressionParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/interpreter/Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/interpreter/Interpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/interpreter/MultiInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/interpreter/MultiInterpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/interpreter/NumberInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/interpreter/NumberInterpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/interpreter/OperatorUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/interpreter/OperatorUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/interpreter/SpringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/interpreter/SpringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/interpreter/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/interpreter/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/iterator/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/iterator/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/iterator/CourseAggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/iterator/CourseAggregate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/iterator/CourseAggregateImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/iterator/CourseAggregateImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/iterator/CourseIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/iterator/CourseIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/iterator/CourseIteratorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/iterator/CourseIteratorImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/iterator/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/iterator/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/mediator/StudyGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/mediator/StudyGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/mediator/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/mediator/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/mediator/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/mediator/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/memento/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/memento/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/memento/ArticleMemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/memento/ArticleMemento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/memento/ArticleMementoManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/memento/ArticleMementoManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/memento/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/memento/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/observer/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/observer/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/observer/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/observer/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/observer/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/observer/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/observer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/observer/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/observer/guavatest/GuavaEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/observer/guavatest/GuavaEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/observer/guavatest/GuavaEventTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/observer/guavatest/GuavaEventTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/state/CourseVideoContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/state/CourseVideoContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/state/CourseVideoState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/state/CourseVideoState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/state/PauseState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/state/PauseState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/state/PlayState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/state/PlayState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/state/SpeedState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/state/SpeedState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/state/StopState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/state/StopState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/state/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/state/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/strategy/EmptyPromotionStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/strategy/EmptyPromotionStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/strategy/FanXianPromotionStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/strategy/FanXianPromotionStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/strategy/LiJianPromotionStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/strategy/LiJianPromotionStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/strategy/ManJianPromotionStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/strategy/ManJianPromotionStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/strategy/PromotionActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/strategy/PromotionActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/strategy/PromotionStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/strategy/PromotionStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/strategy/PromotionStrategyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/strategy/PromotionStrategyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/strategy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/strategy/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/templatemethod/ACourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/templatemethod/ACourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/templatemethod/DesignPatternCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/templatemethod/DesignPatternCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/templatemethod/FECourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/templatemethod/FECourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/templatemethod/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/templatemethod/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/visitor/CodingCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/visitor/CodingCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/visitor/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/visitor/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/visitor/FreeCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/visitor/FreeCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/visitor/IVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/visitor/IVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/visitor/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/visitor/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/visitor/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/visitor/Visitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/abstractfactory/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/abstractfactory/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/abstractfactory/CourseFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/abstractfactory/CourseFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/abstractfactory/JavaArticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/abstractfactory/JavaArticle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/abstractfactory/JavaCourseFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/abstractfactory/JavaCourseFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/abstractfactory/JavaVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/abstractfactory/JavaVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/abstractfactory/PythonArticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/abstractfactory/PythonArticle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/abstractfactory/PythonCourseFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/abstractfactory/PythonCourseFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/abstractfactory/PythonVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/abstractfactory/PythonVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/abstractfactory/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/abstractfactory/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/abstractfactory/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/abstractfactory/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/builder/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/builder/Coach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/builder/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/builder/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/builder/CourseActualBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/builder/CourseActualBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/builder/CourseBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/builder/CourseBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/builder/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/builder/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/builder/v2/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/builder/v2/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/builder/v2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/builder/v2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/factorymethod/FEVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/factorymethod/FEVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/factorymethod/FEVideoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/factorymethod/FEVideoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/factorymethod/JavaVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/factorymethod/JavaVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/factorymethod/JavaVideoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/factorymethod/JavaVideoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/factorymethod/PythonVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/factorymethod/PythonVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/factorymethod/PythonVideoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/factorymethod/PythonVideoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/factorymethod/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/factorymethod/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/factorymethod/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/factorymethod/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/factorymethod/VideoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/factorymethod/VideoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/prototype/Mail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/prototype/Mail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/prototype/MailUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/prototype/MailUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/prototype/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/prototype/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/prototype/abstractprototype/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/prototype/abstractprototype/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/prototype/abstractprototype/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/prototype/abstractprototype/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/prototype/clone/Pig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/prototype/clone/Pig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/prototype/clone/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/prototype/clone/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/simplefactory/JavaVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/simplefactory/JavaVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/simplefactory/PythonVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/simplefactory/PythonVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/simplefactory/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/simplefactory/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/simplefactory/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/simplefactory/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/simplefactory/VideoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/simplefactory/VideoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/singleton/ContainerSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/singleton/ContainerSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/singleton/EnumInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/singleton/EnumInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/singleton/HungrySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/singleton/HungrySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/singleton/LazyDoubleCheckSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/singleton/LazyDoubleCheckSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/singleton/LazySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/singleton/LazySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/singleton/StaticInnerClassSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/singleton/StaticInnerClassSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/singleton/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/singleton/T.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/singleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/singleton/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/creational/singleton/ThreadLocalInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/creational/singleton/ThreadLocalInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/AC220.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/AC220.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/DC5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/DC5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/PowerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/PowerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/classadapter/Adaptee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/classadapter/Adaptee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/classadapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/classadapter/Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/classadapter/ConcreteTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/classadapter/ConcreteTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/classadapter/Target.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/classadapter/Target.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/classadapter/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/classadapter/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/objectadapter/Adaptee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/objectadapter/Adaptee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/objectadapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/objectadapter/Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/objectadapter/ConcreteTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/objectadapter/ConcreteTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/objectadapter/Target.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/objectadapter/Target.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/objectadapter/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/objectadapter/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/bridge/ABCBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/bridge/ABCBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/bridge/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/bridge/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/bridge/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/bridge/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/bridge/DepositAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/bridge/DepositAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/bridge/ICBCBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/bridge/ICBCBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/bridge/SavingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/bridge/SavingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/bridge/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/bridge/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/composite/CatalogComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/composite/CatalogComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/composite/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/composite/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/composite/CourseCatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/composite/CourseCatalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/composite/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/composite/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/decorator/v1/Battercake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/decorator/v1/Battercake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/decorator/v1/BattercakeWithEgg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/decorator/v1/BattercakeWithEgg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/decorator/v1/BattercakeWithEggSausage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/decorator/v1/BattercakeWithEggSausage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/decorator/v1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/decorator/v1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/decorator/v2/ABattercake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/decorator/v2/ABattercake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/decorator/v2/AbstractDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/decorator/v2/AbstractDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/decorator/v2/Battercake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/decorator/v2/Battercake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/decorator/v2/EggDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/decorator/v2/EggDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/decorator/v2/SausageDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/decorator/v2/SausageDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/decorator/v2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/decorator/v2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/facade/GiftExchangeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/facade/GiftExchangeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/facade/PointsGift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/facade/PointsGift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/facade/PointsPaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/facade/PointsPaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/facade/QualifyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/facade/QualifyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/facade/ShippingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/facade/ShippingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/facade/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/facade/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/flyweight/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/flyweight/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/flyweight/EmployeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/flyweight/EmployeeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/flyweight/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/flyweight/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/flyweight/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/flyweight/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/proxy/IOrderDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/proxy/IOrderDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/proxy/IOrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/proxy/IOrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/proxy/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/proxy/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/proxy/OrderDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/proxy/OrderDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/proxy/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/proxy/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/proxy/db/DataSourceContextHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/proxy/db/DataSourceContextHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/proxy/db/DynamicDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/proxy/db/DynamicDataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/proxy/dynamicproxy/OrderServiceDynamicProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/proxy/dynamicproxy/OrderServiceDynamicProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/proxy/dynamicproxy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/proxy/dynamicproxy/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/proxy/staticproxy/OrderServiceStaticProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/proxy/staticproxy/OrderServiceStaticProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/proxy/staticproxy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/proxy/staticproxy/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/compositionaggregation/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/compositionaggregation/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/compositionaggregation/MySQLConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/compositionaggregation/MySQLConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/compositionaggregation/PostgreSQLConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/compositionaggregation/PostgreSQLConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/compositionaggregation/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/compositionaggregation/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/compositionaggregation/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/compositionaggregation/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/demeter/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/demeter/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/demeter/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/demeter/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/demeter/TeamLeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/demeter/TeamLeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/demeter/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/demeter/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/dependenceinversion/FECourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/dependenceinversion/FECourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/dependenceinversion/Geely.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/dependenceinversion/Junjia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/dependenceinversion/ICourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/dependenceinversion/ICourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/dependenceinversion/JavaCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/dependenceinversion/JavaCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/dependenceinversion/PythonCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/dependenceinversion/PythonCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/dependenceinversion/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/dependenceinversion/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/interfacesegregation/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/interfacesegregation/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/interfacesegregation/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/interfacesegregation/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/interfacesegregation/IAnimalAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/interfacesegregation/IAnimalAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/interfacesegregation/IEatAnimalAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/interfacesegregation/IEatAnimalAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/interfacesegregation/IFlyAnimalAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/interfacesegregation/IFlyAnimalAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/interfacesegregation/ISwimAnimalAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/interfacesegregation/ISwimAnimalAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/liskovsubstitution/Quadrangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/liskovsubstitution/Quadrangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/liskovsubstitution/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/liskovsubstitution/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/liskovsubstitution/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/liskovsubstitution/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/liskovsubstitution/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/liskovsubstitution/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/liskovsubstitution/methodinput/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/liskovsubstitution/methodinput/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/liskovsubstitution/methodinput/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/liskovsubstitution/methodinput/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/liskovsubstitution/methodinput/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/liskovsubstitution/methodinput/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/liskovsubstitution/methodoutput/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/liskovsubstitution/methodoutput/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/liskovsubstitution/methodoutput/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/liskovsubstitution/methodoutput/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/liskovsubstitution/methodoutput/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/liskovsubstitution/methodoutput/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/openclose/ICourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/openclose/ICourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/openclose/JavaCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/openclose/JavaCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/openclose/JavaDiscountCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/openclose/JavaDiscountCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/openclose/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/openclose/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/singleresponsibility/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/singleresponsibility/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/singleresponsibility/CourseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/singleresponsibility/CourseImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/singleresponsibility/FlyBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/singleresponsibility/FlyBird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/singleresponsibility/ICourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/singleresponsibility/ICourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/singleresponsibility/ICourseContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/singleresponsibility/ICourseContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/singleresponsibility/ICourseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/singleresponsibility/ICourseManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/singleresponsibility/Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/singleresponsibility/Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/singleresponsibility/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/singleresponsibility/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/principle/singleresponsibility/WalkBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/singleresponsibility/WalkBird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/chainofresponsibility/Approver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/chainofresponsibility/ArticleApprover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/chainofresponsibility/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/chainofresponsibility/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/chainofresponsibility/VideoApprover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/command/CloseCourseVideoCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/command/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/command/CourseVideo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/command/OpenCourseVideoCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/command/Staff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/command/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/interpreter/AddInterpreter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/interpreter/GeelyExpressionParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/interpreter/Interpreter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/interpreter/MultiInterpreter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/interpreter/NumberInterpreter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/interpreter/OperatorUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/interpreter/SpringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/interpreter/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/iterator/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/iterator/CourseAggregate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/iterator/CourseAggregateImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/iterator/CourseIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/iterator/CourseIteratorImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/iterator/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/mediator/StudyGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/mediator/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/mediator/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/memento/Article.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/memento/ArticleMemento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/memento/ArticleMementoManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/memento/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/observer/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/observer/Question.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/observer/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/observer/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/observer/guavatest/GuavaEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/observer/guavatest/GuavaEventTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/state/CourseVideoContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/state/CourseVideoState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/state/PauseState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/state/PlayState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/state/SpeedState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/state/StopState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/state/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/strategy/EmptyPromotionStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/strategy/FanXianPromotionStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/strategy/LiJianPromotionStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/strategy/ManJianPromotionStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/strategy/PromotionActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/strategy/PromotionStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/strategy/PromotionStrategyFactory$PromotionKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/strategy/PromotionStrategyFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/strategy/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/templatemethod/ACourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/templatemethod/DesignPatternCourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/templatemethod/FECourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/templatemethod/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/visitor/CodingCourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/visitor/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/visitor/FreeCourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/visitor/IVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/visitor/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/behavioral/visitor/Visitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/abstractfactory/Article.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/abstractfactory/CourseFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/abstractfactory/JavaArticle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/abstractfactory/JavaCourseFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/abstractfactory/JavaVideo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/abstractfactory/PythonArticle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/abstractfactory/PythonCourseFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/abstractfactory/PythonVideo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/abstractfactory/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/abstractfactory/Video.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/builder/Coach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/builder/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/builder/CourseActualBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/builder/CourseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/builder/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/builder/v2/Course$CourseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/builder/v2/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/builder/v2/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/factorymethod/FEVideo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/factorymethod/FEVideoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/factorymethod/JavaVideo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/factorymethod/JavaVideoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/factorymethod/PythonVideo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/factorymethod/PythonVideoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/factorymethod/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/factorymethod/Video.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/factorymethod/VideoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/prototype/Mail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/prototype/MailUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/prototype/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/prototype/abstractprototype/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/prototype/abstractprototype/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/prototype/clone/Pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/prototype/clone/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/simplefactory/JavaVideo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/simplefactory/PythonVideo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/simplefactory/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/simplefactory/Video.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/simplefactory/VideoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/singleton/ContainerSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/singleton/EnumInstance$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/singleton/EnumInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/singleton/HungrySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/singleton/LazyDoubleCheckSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/singleton/LazySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/singleton/StaticInnerClassSingleton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/singleton/StaticInnerClassSingleton$InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/singleton/StaticInnerClassSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/singleton/T.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/singleton/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/singleton/ThreadLocalInstance$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/creational/singleton/ThreadLocalInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/adapter/AC220.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/adapter/DC5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/adapter/PowerAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/adapter/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/adapter/classadapter/Adaptee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/adapter/classadapter/Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/adapter/classadapter/ConcreteTarget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/adapter/classadapter/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/adapter/classadapter/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/adapter/objectadapter/Adaptee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/adapter/objectadapter/Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/adapter/objectadapter/ConcreteTarget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/adapter/objectadapter/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/adapter/objectadapter/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/bridge/ABCBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/bridge/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/bridge/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/bridge/DepositAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/bridge/ICBCBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/bridge/SavingAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/bridge/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/composite/CatalogComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/composite/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/composite/CourseCatalog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/composite/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/decorator/v1/Battercake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/decorator/v1/BattercakeWithEgg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/decorator/v1/BattercakeWithEggSausage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/decorator/v1/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/decorator/v2/ABattercake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/decorator/v2/AbstractDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/decorator/v2/Battercake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/decorator/v2/EggDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/decorator/v2/SausageDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/decorator/v2/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/facade/GiftExchangeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/facade/PointsGift.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/facade/PointsPaymentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/facade/QualifyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/facade/ShippingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/facade/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/flyweight/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/flyweight/EmployeeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/flyweight/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/flyweight/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/proxy/IOrderDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/proxy/IOrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/proxy/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/proxy/OrderDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/proxy/OrderServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/proxy/db/DataSourceContextHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/proxy/db/DynamicDataSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/proxy/dynamicproxy/OrderServiceDynamicProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/proxy/dynamicproxy/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/proxy/staticproxy/OrderServiceStaticProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/proxy/staticproxy/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/compositionaggregation/DBConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/compositionaggregation/MySQLConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/compositionaggregation/PostgreSQLConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/compositionaggregation/ProductDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/compositionaggregation/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/demeter/Boss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/demeter/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/demeter/TeamLeader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/demeter/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/dependenceinversion/FECourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/dependenceinversion/Geely.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/dependenceinversion/ICourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/dependenceinversion/JavaCourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/dependenceinversion/PythonCourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/dependenceinversion/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/interfacesegregation/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/interfacesegregation/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/interfacesegregation/IAnimalAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/interfacesegregation/IEatAnimalAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/interfacesegregation/IFlyAnimalAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/interfacesegregation/ISwimAnimalAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/liskovsubstitution/Quadrangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/liskovsubstitution/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/liskovsubstitution/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/liskovsubstitution/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/liskovsubstitution/methodinput/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/liskovsubstitution/methodinput/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/liskovsubstitution/methodinput/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/liskovsubstitution/methodoutput/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/liskovsubstitution/methodoutput/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/liskovsubstitution/methodoutput/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/openclose/ICourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/openclose/JavaCourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/openclose/JavaDiscountCourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/openclose/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/singleresponsibility/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/singleresponsibility/CourseImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/singleresponsibility/FlyBird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/singleresponsibility/ICourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/singleresponsibility/ICourseContent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/singleresponsibility/ICourseManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/singleresponsibility/Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/singleresponsibility/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/principle/singleresponsibility/WalkBird.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,14 +440,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="designpattern" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -24,31 +458,140 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geely/design/principle/demeter/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/command/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/mediator/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/interpreter/Interpreter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/interpreter/JunjiaExpressionParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/principle/dependenceinversion/Junjia.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/principle/dependenceinversion/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/command/Staff.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/interpreter/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+              <caret line="9" column="58" lean-forward="true" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/strategy/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>geely</find>
+      <find>eely</find>
+      <find>Geely</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>junjia</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/geely/design/principle/demeter/Test.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/command/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/visitor/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/observer/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/interpreter/GeelyExpressionParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/interpreter/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/chainofresponsibility/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/mediator/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/dependenceinversion/Junjia.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/junjia/design/principle/dependenceinversion/Test.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="154" />
-    <option name="y" value="270" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="design_pattern Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="design_pattern Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1920" />
-    <option name="height" value="986" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -57,33 +600,34 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -91,7 +635,7 @@
               <item name="design" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -100,7 +644,28 @@
               <item name="pattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
+              <item name="interpreter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -109,30 +674,36 @@
               <item name="principle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
               <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="demeter" type="462c0819:PsiDirectoryNode" />
+              <item name="dependenceinversion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550925851831" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551604594588" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,13 +717,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geely.design.principle.demeter.Test" />
-      <module name="design_pattern" />
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.junjia.design.pattern.behavioral.strategy.Test" />
+      <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geely.design.principle.demeter.*" />
+          <option name="PATTERN" value="com.junjia.design.pattern.behavioral.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.junjia.design.pattern.behavioral.interpreter.Test" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.junjia.design.pattern.behavioral.interpreter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,6 +746,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -177,78 +762,536 @@
       <option name="presentableId" value="Default" />
       <updated>1550925097995</updated>
       <workItem from="1550925100455" duration="563000" />
+      <workItem from="1551489957647" duration="5312000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="563000" />
+    <option name="totallyTimeSpent" value="13777000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="154" y="270" width="1920" height="986" extended-state="1" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49618322" visible="true" weight="0.25239617" />
+      <window_info id="Structure" order="1" sideWeight="0.5038168" side_tool="true" weight="0.25239617" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.5019802" side_tool="true" weight="0.25239617" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32871288" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39932886" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="JSF" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.19910514" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" visible="true" weight="0.48118812" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24973376" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.09531417" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="JSF" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" x="178" y="123" width="1720" height="786" id="Byte Code Viewer" order="10" type="FLOATING" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/decorator/v2/AbstractDecorator.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/decorator/v2/Test.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/decorator/v2/Test.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/decorator/v2/Test.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geely/design/principle/demeter/Test.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.3.RELEASE/spring-webmvc-4.0.3.RELEASE.jar!/org/springframework/web/servlet/HandlerAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        <state relative-caret-position="90">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.3.RELEASE/spring-webmvc-4.0.3.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/AC220.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/PowerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/objectadapter/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/objectadapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="51" column="26" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Long.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="53" column="23" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4.jar!/org/apache/commons/pool/impl/GenericKeyedObjectPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-pool2/2.0/commons-pool2-2.0.jar!/org/apache/commons/pool2/impl/GenericKeyedObjectPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/principle/demeter/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/principle/demeter/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/objectadapter/Adaptee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/adapter/objectadapter/ConcreteTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.2.0.RELEASE/spring-session-1.2.0.RELEASE.jar!/org/springframework/session/web/http/SessionRepositoryFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="127" column="9" lean-forward="true" selection-start-line="127" selection-start-column="9" selection-end-line="127" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/composite/CatalogComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/composite/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/awt/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="91" column="22" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/composite/CourseCatalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/structural/composite/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1.jar!/org/apache/ibatis/scripting/xmltags/MixedSqlNode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="136" column="20" selection-start-line="136" selection-start-column="13" selection-end-line="136" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1.jar!/org/apache/ibatis/scripting/xmltags/SqlNode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.jar!/com/mysql/jdbc/Driver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.0.3.RELEASE/spring-jdbc-4.0.3.RELEASE.jar!/org/springframework/jdbc/support/JdbcUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.0.3.RELEASE/spring-aop-4.0.3.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.0.3.RELEASE/spring-aop-4.0.3.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="227" column="18" selection-start-line="227" selection-start-column="13" selection-end-line="227" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.0.3.RELEASE/spring-aop-4.0.3.RELEASE.jar!/org/springframework/aop/framework/ProxyFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1.jar!/org/apache/ibatis/binding/MapperProxyFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="75" column="26" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-servlet-api/7.0.64/tomcat-servlet-api-7.0.64.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1.jar!/org/apache/ibatis/executor/BaseExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="34" column="34" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="53" column="25" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="105" column="22" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1.jar!/org/apache/ibatis/cursor/defaults/DefaultCursor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="108" column="27" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="70" column="19" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="110" column="20" selection-start-line="110" selection-start-column="13" selection-end-line="110" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.0.3.RELEASE/spring-core-4.0.3.RELEASE.jar!/org/springframework/core/io/Resource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.0.3.RELEASE/spring-beans-4.0.3.RELEASE.jar!/org/springframework/beans/factory/support/InstantiationStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/strategy/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/command/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/mediator/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/interpreter/Interpreter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/interpreter/JunjiaExpressionParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/principle/dependenceinversion/Junjia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/principle/dependenceinversion/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/command/Staff.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/junjia/design/pattern/behavioral/interpreter/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="58" lean-forward="true" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>designpattern:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>designpattern</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
