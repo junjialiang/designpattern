@@ -162,3 +162,7 @@
 类名：java.util.regex.Pattern
 
 类名：org.springframework.expression.ExpressionParser
+
+观察者模式：
+----------------------------------------------------------------------------
+类名：com.google.common.eventbus.EventBus
